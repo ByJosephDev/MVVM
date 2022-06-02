@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xjFa5n3f7hSTD2orco9BGMFzpte0OO21RiGOlv+SKyYUtoDd1w/npDG8JQpQIe4NeDshp6PyrlL7NJhxTlJo1w==",
+  "success": true,
+  "projectFilePath": "/Users/josephpuma/Documents/Xamarin/MVVM/MVVM/MVVM.iOS/MVVM.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/josephpuma/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/josephpuma/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/josephpuma/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

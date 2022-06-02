@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="MVVM.Views.Operations">
+    <ContentPage.Content>
+        <StackLayout Padding="50">
+
+            <StackLayout>
+                <Label FontSize="Title" Text="Calculadora Basica"/>
+                <Label FontSize="Subtitle" Text="*Numeros redondeados a 2 decimales"/>
+            </StackLayout>
+
+            <StackLayout Margin="0,20,0,0">
+                <Label Text="Valor 1"/>
+                <Editor  Keyboard="Numeric" Text="{Binding Valor1}"></Editor>
+            </StackLayout>
+
+            <StackLayout Margin="0,30,0,0" >
+                <Label Text="Valor 2"/>
+                <Editor Keyboard="Numeric" Text="{Binding Valor2}"></Editor>
+            </StackLayout>
+
+            <StackLayout Margin="0,30,0,0" Orientation="Horizontal">
+                <Button Text="Sumar" Command="{Binding Sumar}"/>
+                <Label Margin="10,15,0,0" Text="{Binding ResultSuma}"/>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal">
+                <Button Text="Restar" Command="{Binding Restar}"/>
+                <Label Margin="10,15,0,0" Text="{Binding ResultResta}"/>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal">
+                <Button Text="Multiplicar" Command="{Binding Multiplicar}"/>
+                <Label Margin="10,15,0,0" Text="{Binding ResultMulti}"/>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal">
+                <Button Text="Dividir" Command="{Binding Dividir}"/>
+                <Label Margin="10,15,0,0" Text="{Binding ResultDivi}"/>
+            </StackLayout>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
+

@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{9AB235C8-979A-4364-9C0F-01C2115F690F}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MVVM/MVVM/Views/Operations.xaml.cs">
+    <Files>
+      <File FileName="MVVM/MVVM/Views/Operations.xaml" Line="30" Column="37" />
+      <File FileName="MVVM/MVVM/Views/Operations.xaml.cs" Line="1" Column="1" />
+      <File FileName="MVVM/MVVM/ViewModels/ViewModelBase.cs" Line="1" Column="1" />
+      <File FileName="MVVM/MVVM/ViewModels/OperationsViewModel.cs" Line="124" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MVVM" expanded="True">
+            <Node name="MVVM" expanded="True">
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Operations.xaml" expanded="True">
+                  <Node name="Operations.xaml.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="12.3.0.3.3" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.MVVM.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.MVVM.Android PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

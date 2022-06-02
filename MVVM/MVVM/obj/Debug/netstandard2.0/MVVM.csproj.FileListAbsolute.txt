@@ -1,0 +1,15 @@
+/Users/josephpuma/Documents/Xamarin/MVVM/MVVM/MVVM/bin/Debug/netstandard2.0/MVVM.deps.json
+/Users/josephpuma/Documents/Xamarin/MVVM/MVVM/MVVM/bin/Debug/netstandard2.0/MVVM.dll
+/Users/josephpuma/Documents/Xamarin/MVVM/MVVM/MVVM/bin/Debug/netstandard2.0/ref/MVVM.dll
+/Users/josephpuma/Documents/Xamarin/MVVM/MVVM/MVVM/bin/Debug/netstandard2.0/MVVM.pdb
+/Users/josephpuma/Documents/Xamarin/MVVM/MVVM/MVVM/obj/Debug/netstandard2.0/MVVM.csproj.AssemblyReference.cache
+/Users/josephpuma/Documents/Xamarin/MVVM/MVVM/MVVM/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/josephpuma/Documents/Xamarin/MVVM/MVVM/MVVM/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/josephpuma/Documents/Xamarin/MVVM/MVVM/MVVM/obj/Debug/netstandard2.0/Views/Operations.xaml.g.cs
+/Users/josephpuma/Documents/Xamarin/MVVM/MVVM/MVVM/obj/Debug/netstandard2.0/MVVM.AssemblyInfoInputs.cache
+/Users/josephpuma/Documents/Xamarin/MVVM/MVVM/MVVM/obj/Debug/netstandard2.0/MVVM.AssemblyInfo.cs
+/Users/josephpuma/Documents/Xamarin/MVVM/MVVM/MVVM/obj/Debug/netstandard2.0/MVVM.csproj.CoreCompileInputs.cache
+/Users/josephpuma/Documents/Xamarin/MVVM/MVVM/MVVM/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/josephpuma/Documents/Xamarin/MVVM/MVVM/MVVM/obj/Debug/netstandard2.0/MVVM.dll
+/Users/josephpuma/Documents/Xamarin/MVVM/MVVM/MVVM/obj/Debug/netstandard2.0/ref/MVVM.dll
+/Users/josephpuma/Documents/Xamarin/MVVM/MVVM/MVVM/obj/Debug/netstandard2.0/MVVM.pdb
